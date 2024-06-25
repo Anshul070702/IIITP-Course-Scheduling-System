@@ -1,0 +1,6 @@
+PORT = Enter the port number for the backend server
+MONGO_URL = Enter your mongo cluster URL.
+ACCESS_TOKEN_SECRET =  randomstring
+ACCESS_TOKEN_EXPIRY = 1d
+REFRESH_TOKEN_SECRET = nextrandomstring
+REFRESH_TOKEN_EXPIRY = 10d
